@@ -1,0 +1,6 @@
+Rock API
+
+-Types of rock: Igneous/Sediment/Metamorphic
+-Classify(Geological Setting,Mode of occurrence): Intrusive(plutonic),Extrusive(volcanic)/Classtic,Non-classtic/Foliated,Non-foliated
+-Name of rock
+
